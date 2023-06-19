@@ -1,6 +1,6 @@
-# DiCOVA Challenge
+# DiCOVA Challenge: Covid detection using acoustics
 
-This project was carried out with Elisa Ramírez as part of a course in Speech Technologies.
+*This project was carried out with Elisa Ramírez as part of a course in Speech Technologies.*
 
 ![Dicova](https://github.com/CesarCaramazana/SpeechTech_DiCOVA_Challenge/blob/main/Figures/DiCOVA.PNG)
 
