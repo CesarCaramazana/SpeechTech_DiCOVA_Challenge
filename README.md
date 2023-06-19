@@ -60,3 +60,14 @@ In the experiments carried out below, we created an ensemble of a Random Forest 
 The summary of results are shown in the table below:
 
 ![Results](https://github.com/CesarCaramazana/SpeechTech_DiCOVA_Challenge/blob/main/Figures/results.PNG)
+
+
+## Conclusions
+
+By replicating the winning approach of the DiCOVA challenge we aimed to assess the validity of the solution rather than to benchmark performance with more novel architectures. As the performance we obtained was much worse --the winners obtained AUC=87.07, contrasting our AUC=59.14--, and after comparing closely the impact the differences may have had in the results, we identified that the dataset we used was several orders smaller than the original. In the Deep Learning paradigm, the data are more important than the models, and a CNN solution was not suitable in our scenario. 
+
+
+Regarding the ensemble method, the results were improved with respect to the stand-alone methods by combining the ouputs of the individual classifiers with weights proportional to their performance. However, the variability (std) of the AUCs imply that the confidence intervals of the models overlap, so the improvement is not very significative.
+
+
+Future lines of work involve gathering more data from the original dataset or applying data augmentation at the audio level, the selection of better performing models for the ensemble method and the fine-tuning of hyperparameters. 
