@@ -71,3 +71,18 @@ Regarding the ensemble method, the results were improved with respect to the sta
 
 
 Future lines of work involve gathering more data from the original dataset or applying data augmentation at the audio level, the selection of better performing models for the ensemble method and the fine-tuning of hyperparameters. 
+
+
+## References
+
+[1] Mahanta, S.K., Jain, S., & Kaushik, D. (2021). The Brogrammers DiCOVA 2021 Challenge System Report.
+
+[2] Chang, J., Cui, S., & Feng, M. (2021). DiCOVA-Net: Diagnosing covid-19 using acoustics based on deep residual network for the DiCOVA challenge 2021. arXiv preprint arXiv:2107.06126.
+
+[3] Rutowski, T., Harati, A., Shriberg, E., Lu, Y., Chlebek, P., & Oliveira, R. (2022). Toward Corpus Size Requirements for Training and Evaluating Depression Risk Models Using Spoken Language. Interspeech.
+
+[4] Singh, V.P, Kumar, S., Jha, R.S (2021). Samsumg R and D Bangalore DiCOVA 2021 Challenge System Report.
+
+[5] Glorot, X., & Bengio, Y. (2010, March). Understanding the difficulty of training deep feedforward neural networks. In Proceedings of the thirteenth international conference on artificial intelligence and statistics (pp. 249-256). JMLR Workshop and Conference Proceedings.
+
+[6] Harvill J., Wani Y., Hasegawa-Johnson M., Ahuja1 N., Beiser D., Chestek, D. (2021). UIUC SST DiCOVA 2021 Challenge System Report.
